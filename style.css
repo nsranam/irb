@@ -1,0 +1,67 @@
+/**{
+	border: 1px solid black;
+}*/
+
+body {
+	font-family: 'Raleway';
+}
+
+.green {
+	color: #2FBF6A; 
+	font-weight: bold;
+
+}
+.white {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.light-grey {
+	color: #e9e9e9;
+}
+
+#onboarding {
+	height: 100vh;
+	background-image: url(./images/onboarding.jpg);
+	background-repeat: no-repeat;
+    background-size: auto 89vw;
+    background-position: 0vw -32vw;
+}
+.title { 
+	padding-top: 30vh;
+
+}
+
+#introduction, #offer, #services { 
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
+
+.text-center {
+	text-align: center;
+
+}
+
+#offer{
+	background-color: #2FBF6A;
+
+}
+
+.margin-b{
+	margin-bottom: 1.5vw;
+}
+#vision {
+	margin-top: 5vh;
+	background-color: #2FBF6A;
+	background-image: url(./images/gradient.png), url(./images/vision.jpg);
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
+
+.lineV {
+	border-left: 1px solid black;
+}
+
+#contact {
+	margin-top: 10vh;
+}
